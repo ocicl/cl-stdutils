@@ -1,0 +1,9 @@
+* cl-stdutils
+
+Yet Another Common Lisp Standard Utilities Library
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/eslick/cl-stdutils.git |
+| commit  | 4a4e5a4                                       |
+| systems | cl-stdutils                                   |
+|---------+-----------------------------------------------|
